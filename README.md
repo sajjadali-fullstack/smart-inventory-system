@@ -10,7 +10,16 @@
 - **Smart Categorization:** Automatically filters products based on categories like Electronics, Clothes, and Furniture.
 - **RESTful API:** Ready-to-use endpoints for mobile and web frontend integration.
 - **Easy Form Management:** Built-in views to handle product additions with validation.
+- 
+---
+### 📸 Project Previews
+![Product Dashboard](https://github.com/sajjadali-fullstack/smart-inventory-system/blob/4bf54501068b971ae31747d2abd45b10af744230/inventory-dashboard.png)
+![Add Inventory](https://github.com/sajjadali-fullstack/smart-inventory-system/blob/4bf54501068b971ae31747d2abd45b10af744230/add-inventory.png)
+![API Endpoint](https://github.com/sajjadali-fullstack/smart-inventory-system/blob/4bf54501068b971ae31747d2abd45b10af744230/inventory-products-api.png)
+![Inventory List](#)
 
+
+---
 
 ## 🛠 Upcoming Features
 - [ ] **Real-time Analytics:** Dashboard to visualize stock levels.
